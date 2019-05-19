@@ -65,7 +65,7 @@ Comments about each parameter are written at file.
 
 ## appsettings.json Example
 
-```json
+```c#
 //CaspianTrade
 {
   /* spreadGain is calculated in % 
